@@ -1,0 +1,172 @@
+------------ Contest App details are as follows ------
+University Name Contest Day Contest Date 
+- -----------------------------------------------------------------------------
+King AbdulAziz University               Sunday                   09/22/2019     
+King Saud University                    Monday                   09/23/2019     
+King Khalid University                  Tuesday                  09/24/2019     
+King Fahad University                   Wednesday                09/25/2019     
+---Contest Results of King AbdulAziz University is as Follows ---
+
+---Student Name ANAS SHAKER BARAK points are as Follows ---
+Usability Accessibility : 7
+Platform Compatibility Portability : 8
+Security : 6
+Functionality Correctness : 9
+Performance Efficiency : 5
+---Student Name MOHAMMED ALI MOHAMMED ALGHAMDI points are as Follows ---
+Usability Accessibility : 8
+Platform Compatibility Portability : 6
+Security : 5
+Functionality Correctness : 7
+Performance Efficiency : 9
+---Student Name MARYAM MANSOUR HAMAD ALJEHANI points are as Follows ---
+Usability Accessibility : 9
+Platform Compatibility Portability : 7
+Security : 7
+Functionality Correctness : 6
+Performance Efficiency : 5
+---Student Name KHALID AUN ALARIANI points are as Follows ---
+Usability Accessibility : 8
+Platform Compatibility Portability : 9
+Security : 8
+Functionality Correctness : 5
+Performance Efficiency : 7
+---Contest Results of King Saud University is as Follows ---
+
+---Student Name FATIMA WALEED AGEELI points are as Follows ---
+Usability Accessibility : 9
+Platform Compatibility Portability : 8
+Security : 7
+Functionality Correctness : 4
+Performance Efficiency : 5
+---Student Name REEM ABDUALAZIZ ALTURKI points are as Follows ---
+Usability Accessibility : 6
+Platform Compatibility Portability : 7
+Security : 9
+Functionality Correctness : 5
+Performance Efficiency : 4
+---Student Name AHMED WADEA OMAR ALJOHANI points are as Follows ---
+Usability Accessibility : 3
+Platform Compatibility Portability : 6
+Security : 8
+Functionality Correctness : 9
+Performance Efficiency : 6
+---Contest Results of King Khalid University is as Follows ---
+
+---Student Name MESHAL ALI ALMOSAED points are as Follows ---
+Usability Accessibility : 6
+Platform Compatibility Portability : 8
+Security : 7
+Functionality Correctness : 8
+Performance Efficiency : 4
+---Student Name GHASSAN AHMAD MOHAMED SIYAMAK points are as Follows ---
+Usability Accessibility : 4
+Platform Compatibility Portability : 9
+Security : 3
+Functionality Correctness : 9
+Performance Efficiency : 7
+---Student Name KHALID ATEEQ ABDULLAH ALMALKI points are as Follows ---
+Usability Accessibility : 5
+Platform Compatibility Portability : 5
+Security : 8
+Functionality Correctness : 7
+Performance Efficiency : 6
+---Student Name SUHAIB HAMDAN MOHAMAD ALSHARIF points are as Follows ---
+Usability Accessibility : 8
+Platform Compatibility Portability : 7
+Security : 9
+Functionality Correctness : 6
+Performance Efficiency : 8
+---Student Name AYSHA SAHL SADAGA GAZZAZ points are as Follows ---
+Usability Accessibility : 3
+Platform Compatibility Portability : 4
+Security : 6
+Functionality Correctness : 4
+Performance Efficiency : 5
+---Contest Results of King Fahad University is as Follows ---
+
+---Student Name FAISAL SOUD ABDULAZIZ ALMUTIRI points are as Follows ---
+Usability Accessibility : 8
+Platform Compatibility Portability : 7
+Security : 6
+Functionality Correctness : 9
+Performance Efficiency : 5
+---Student Name WALEED SULIMAN HUMOD ALBALAWI points are as Follows ---
+Usability Accessibility : 9
+Platform Compatibility Portability : 6
+Security : 4
+Functionality Correctness : 3
+Performance Efficiency : 9
+---Student Name ABDULREHMAN AHMED MOHAMMED BASHEIKH points are as Follows ---
+Usability Accessibility : 6
+Platform Compatibility Portability : 5
+Security : 9
+Functionality Correctness : 5
+Performance Efficiency : 8
+---Student Name FAISAL AWAD ALI ALSHAHR points are as Follows ---
+Usability Accessibility : 7
+Platform Compatibility Portability : 8
+Security : 6
+Functionality Correctness : 7
+Performance Efficiency : 5
+--- Results of King AbdulAziz University is as Follows ---
+Contest Winner name in Category: Usability Accessibility : 
+MARYAM MANSOUR HAMAD ALJEHANI
+--- Results of King Saud University is as Follows ---
+Contest Winner name in Category: Usability Accessibility : 
+FATIMA WALEED AGEELI
+--- Results of King Khalid University is as Follows ---
+Contest Winner name in Category: Usability Accessibility : 
+SUHAIB HAMDAN MOHAMAD ALSHARIF
+--- Results of King Fahad University is as Follows ---
+Contest Winner name in Category: Usability Accessibility : 
+WALEED SULIMAN HUMOD ALBALAWI
+--- Results of King AbdulAziz University is as Follows ---
+Contest Winner name in Category: Platform Compatibility Portability : 
+KHALID AUN ALARIANI
+--- Results of King Saud University is as Follows ---
+Contest Winner name in Category: Platform Compatibility Portability : 
+FATIMA WALEED AGEELI
+--- Results of King Khalid University is as Follows ---
+Contest Winner name in Category: Platform Compatibility Portability : 
+GHASSAN AHMAD MOHAMED SIYAMAK
+--- Results of King Fahad University is as Follows ---
+Contest Winner name in Category: Platform Compatibility Portability : 
+FAISAL AWAD ALI ALSHAHR
+--- Results of King AbdulAziz University is as Follows ---
+Contest Winner name in Category: Security : 
+KHALID AUN ALARIANI
+--- Results of King Saud University is as Follows ---
+Contest Winner name in Category: Security : 
+REEM ABDUALAZIZ ALTURKI
+--- Results of King Khalid University is as Follows ---
+Contest Winner name in Category: Security : 
+SUHAIB HAMDAN MOHAMAD ALSHARIF
+--- Results of King Fahad University is as Follows ---
+Contest Winner name in Category: Security : 
+ABDULREHMAN AHMED MOHAMMED BASHEIKH
+--- Results of King AbdulAziz University is as Follows ---
+Contest Winner name in Category: Functionality Correctness : 
+ANAS SHAKER BARAK
+--- Results of King Saud University is as Follows ---
+Contest Winner name in Category: Functionality Correctness : 
+AHMED WADEA OMAR ALJOHANI
+--- Results of King Khalid University is as Follows ---
+Contest Winner name in Category: Functionality Correctness : 
+GHASSAN AHMAD MOHAMED SIYAMAK
+--- Results of King Fahad University is as Follows ---
+Contest Winner name in Category: Functionality Correctness : 
+FAISAL SOUD ABDULAZIZ ALMUTIRI
+--- Results of King AbdulAziz University is as Follows ---
+Contest Winner name in Category: Performance Efficiency : 
+MOHAMMED ALI MOHAMMED ALGHAMDI
+--- Results of King Saud University is as Follows ---
+Contest Winner name in Category: Performance Efficiency : 
+AHMED WADEA OMAR ALJOHANI
+--- Results of King Khalid University is as Follows ---
+Contest Winner name in Category: Performance Efficiency : 
+SUHAIB HAMDAN MOHAMAD ALSHARIF
+--- Results of King Fahad University is as Follows ---
+Contest Winner name in Category: Performance Efficiency : 
+WALEED SULIMAN HUMOD ALBALAWI
+ Thank you for using FCIT, Contest App System, Good Bye!
